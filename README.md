@@ -9,6 +9,7 @@ feel free to look around!
 
 💻 Tech Stack:
 </br>
+</br>
 [![My Skills](https://skillicons.dev/icons?i=js,python,java,html,css,c,figma,tailwind,react,php,fastapi,postman,-)](https://skillicons.dev)
 
 
