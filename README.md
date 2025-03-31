@@ -4,7 +4,9 @@ been in the developing life for about 1 year, I love problem solution situations
 
 feel free to look around!
 
-## 🌐 Socials:
+🌐 Socials:
+</br>
+</br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavo_locutor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bruno-90344a272/) 
 
 💻 Tech Stack:
