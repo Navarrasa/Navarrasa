@@ -1,6 +1,4 @@
-# Welcome!
-
-`I'm devBruno, welcome to my Github profile!`
+# Hi! I'm devBruno, welcome to my Github profile!
 
 - feel free to look around!
 
