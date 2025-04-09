@@ -16,7 +16,7 @@ feel free to look around!
 💻 Tech Stack:
 </br>
 </br>
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,html,css,c,figma,tailwind,react,php,fastapi,postman,-)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,c,figma,tailwind,react,php,fastapi,postman,-)](https://skillicons.dev)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
