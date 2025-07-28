@@ -1,4 +1,4 @@
-Hello! I'm `devBruno`, welcome to my Github profile!
+whats'up! I'm `devBruno`, welcome to my Github profile!
 
 been in the developing life for about 1 year, I love problem solution situations and I'm always learning something new.
 
@@ -16,7 +16,7 @@ feel free to look around!
 💻 Tech Stack:
 </br>
 </br>
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,c,figma,tailwind,react,php,fastapi,postman,-)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,ts,figma,tailwind,react,django,fastapi,postman,insomnia-)](https://skillicons.dev)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
